@@ -1,0 +1,18 @@
+.jumbotron
+{
+    background-image: url('../images/friend.jpg');
+    background-color: :white;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 400px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+#box-wrapper{
+    background-image: url(../images/friend1.jpg);
+    background-size: 800px 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 800px;
+}
